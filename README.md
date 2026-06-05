@@ -73,7 +73,8 @@ A modern, full-featured web application for managing personal finances built wit
    ```
 
 5. **Open your browser**
-   - Navigate to:https://monthly-buget-planner.onrender.com
+   - Navigate to:https:https://monthly-buget-planner.onrender.com
+   - 
    - 
 
 ## 📁 Project Structure
